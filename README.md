@@ -3,7 +3,7 @@ Atividade Ponderada - Placa de circuito impresso com Raspberry Pi Pico
 Este repositório contém os esquemas PCB desenvolvidos e entregues como parte do projeto "PonderadaSemana6-backups". Abaixo está a descrição dos arquivos presentes neste diretório:
 
 -PonderadaSemana6-backups: Diretório contendo os backups do projeto "PonderadaSemana6".
--EsquemasPCB-B_Cu.gbr: Arquivo de camada de cobre inferior.
+EsquemasPCB-B_Cu.gbr: Arquivo de camada de cobre inferior.<br>
 -EsquemasPCB-B_Mask.gbr: Arquivo de máscara inferior.
 -EsquemasPCB-B_Paste.gbr: Arquivo de pasta de solda inferior.
 -EsquemasPCB-B_Silkscreen.gbr: Arquivo de serigrafia inferior.
