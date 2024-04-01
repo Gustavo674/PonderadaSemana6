@@ -19,4 +19,5 @@ EsquemasPCB-B_Cu.gbr: Arquivo de camada de cobre inferior.<br>
 -EsquemasPCB.kicad_sch: Arquivo esquemático do KiCad.<br>
 -_autosave-PonderadaSemana6.kicad_sch: Arquivo de salvamento automático do esquemático.<br>
 -fp-info-cache: Cache de informações de footprints.<br>
+
 Este repositório foi organizado de acordo com as boas práticas para facilitar o entendimento e o acesso aos arquivos relacionados ao projeto de esquemas PCB. 
